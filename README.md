@@ -1,7 +1,7 @@
 # Books [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/jakazzy/resources)
 These are curated list of books - tech and soft skills
 
-# Awesome(a clone of [awesomeme](https://github.com/obengwilliam/awesome-me))
+# Awesome(a clone of [awesomeme](https://github.com/obengwilliam/awesome-me) by Will)
 Curated list of books and blogs
 
  ### Design && Architecture
@@ -48,6 +48,8 @@ Curated list of books and blogs
   
   
   ### Python
+
+  ### Rust
   
   
  ### ReactJs
