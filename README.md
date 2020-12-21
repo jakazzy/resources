@@ -90,7 +90,7 @@ Curated list of books and blogs
   - [Mongodb University](https://university.mongodb.com/)
     
 
-## Tehchical Leadership and Effectivness
+## Technical Leadership and Effectivness
 - [Learn from Marcus](https://marcusblankenship.com/learn/)
 - [The Passionate Programmer](https://www.goodreads.com/book/show/6399113-the-passionate-programmer)
 - [How to manage programmers](https://www.youtube.com/watch?v=NPlMcUxFOlY&t=111s)
@@ -98,5 +98,5 @@ Curated list of books and blogs
 - [Pick Yourself Up](https://medium.freecodecamp.org/one-way-to-greatness-pick-yourself-31945487731b)
 -[Become a better Programmer](https://www.amazon.com/Becoming-Better-Programmer-Handbook-People/dp/1491905530)
 - [How to be a tech Lead](https://leanpub.com/how-to-be-a-tech-lead/)
-
+- [Atomic Habits](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299)
 
