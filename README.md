@@ -55,7 +55,11 @@ Curated list of books and blogs
  ### ReactJs
  
  ### Svelte
- [Frameworks without frameworks](https://svelte.technology/blog/frameworks-without-the-framework)
+ - [Frameworks without frameworks](https://svelte.technology/blog/frameworks-without-the-framework)
+
+ - [The Svelte compiler Handbook](https://lihautan.com/the-svelte-compiler-handbook/#where-can-i-find-the-renderer-in-the-source-code)
+
+ - [Svelte Compiler under the hood](https://www.reddit.com/r/sveltejs/comments/fip2i4/how_the_svelte_compiler_works/)
  
  ### Third Party Js Applications(Widget)
   
